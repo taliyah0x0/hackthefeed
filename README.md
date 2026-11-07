@@ -1,7 +1,8 @@
 # Workbench + Rover Cam
 
-**A camera crew of one for creators who film what they build.**
 🥈 2nd place at [Hack the Feed](https://luma.com/92iq2a12?tk=uoFqyE).
+
+[Watch the Project video](https://www.instagram.com/reel/Dfcxudyh_Jo/?xtok=MXdhenl4ZzNwMzZ0eg==).
 
 ## The problem
 I asked 25 creators what they hate about filming their projects. Three answers kept coming up:
