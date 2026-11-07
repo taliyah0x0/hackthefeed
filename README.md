@@ -1,3 +1,5 @@
 Demo Video here: [https://youtu.be/pAhyua5qIcw](https://youtu.be/pAhyua5qIcw)
 
+A few weeks ago, I reached out to 25 content creators to ask about their pain points, and received responses from several of them, then I combined all of their problems into 1 project.
+
 Creators who film their own build videos run into three problems. First, nobody holds the camera, so they keep stopping to reframe and the best moments go unfilmed. Workbench’s Rover Cam is a robot camera operator. It follows your face or hands, takes voice and hand-sign commands, and records hands-free. Second, the footage gets lost. Takes pile up in a camera roll between everyday photos and take ages to find. Every rover take goes straight to the phone, where BuildRoll sorts it into a project for each build and makes it searchable in plain words. Third, creators find out a key shot is missing only after the build is done, when they can’t go back and film it. Missing Beat uses Oriane’s viral video data to turn top-performing builds into a shot list before filming. Afterwards it checks your takes against that list and flags any missing beat while there’s still time to film it.
